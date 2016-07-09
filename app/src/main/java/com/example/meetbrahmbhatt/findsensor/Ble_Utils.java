@@ -1,13 +1,8 @@
-package com.example.meetbrahmbhatt.findsensor;
-
 import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothManager;
 import android.content.Context;
 import android.content.pm.PackageManager;
 
-/**
- * Created by meetbrahmbhatt on 5/2/16.
- */
 public class Ble_Utils {
 
     public static final int STATUS_BLE_ENABLED = 0;
