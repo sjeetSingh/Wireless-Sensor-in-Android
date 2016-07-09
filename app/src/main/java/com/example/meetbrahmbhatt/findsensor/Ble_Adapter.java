@@ -1,5 +1,3 @@
-package com.example.meetbrahmbhatt.findsensor;
-
 import android.annotation.SuppressLint;
 import android.bluetooth.BluetoothDevice;
 import android.content.Context;
