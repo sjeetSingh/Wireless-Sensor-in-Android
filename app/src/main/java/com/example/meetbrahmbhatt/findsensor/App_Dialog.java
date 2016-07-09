@@ -1,13 +1,8 @@
-package com.example.meetbrahmbhatt.findsensor;
-
 import android.app.Activity;
 import android.app.Dialog;
 import android.app.DialogFragment;
 import android.os.Bundle;
 
-/**
- * Created by meetbrahmbhatt on 5/2/16.
- */
 public class App_Dialog<Listener> extends DialogFragment {
 
     private Listener listener_1;
