@@ -11,9 +11,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.TreeMap;
 
-/**
- * Created by meetbrahmbhatt on 5/2/16.
- */
 public class Ble_Adapter extends BaseAdapter {
     private final LayoutInflater inflater;
 
