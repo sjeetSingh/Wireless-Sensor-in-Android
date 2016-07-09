@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/meetbrahmbhatt/Downloads/physical-web-master/android/FindSensor/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6c71d3a20715a32dcf3a0b5a0bd17ae6ad31a726">
+        <dex dex="/Users/meetbrahmbhatt/Downloads/physical-web-master/android/FindSensor/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8361158775ac2ab905831c81fe2ef7278f3ff042/classes.dex" />
+    </item>
+    <item
+        jar="/Users/meetbrahmbhatt/Downloads/physical-web-master/android/FindSensor/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/meetbrahmbhatt/Downloads/physical-web-master/android/FindSensor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_f3f98634c657dbe2adecbd434a4ea1ebbcf2c6b2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/meetbrahmbhatt/Downloads/physical-web-master/android/FindSensor/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/meetbrahmbhatt/Downloads/physical-web-master/android/FindSensor/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_aa37a0caded7ac1d1df1c1e54f51f2bd38937adf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/meetbrahmbhatt/Downloads/physical-web-master/android/FindSensor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/meetbrahmbhatt/Downloads/physical-web-master/android/FindSensor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_3e47f0eca13bce75234d93f9ab5478e670050ba1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/meetbrahmbhatt/Downloads/physical-web-master/android/FindSensor/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="033f812c9fa1d087da28221a92349afdf6e5e01b">
+        <dex dex="/Users/meetbrahmbhatt/Downloads/physical-web-master/android/FindSensor/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0f0ef3467a0f5499b3b4f53b90b04d00d77e1642/classes.dex" />
+    </item>
+    <item
+        jar="/Users/meetbrahmbhatt/Downloads/physical-web-master/android/FindSensor/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/meetbrahmbhatt/Downloads/physical-web-master/android/FindSensor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_04d4c6dde07a1f5ed2018e32b2866f91e791813e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/meetbrahmbhatt/Downloads/physical-web-master/android/FindSensor/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/meetbrahmbhatt/Downloads/physical-web-master/android/FindSensor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_3050cb345048cbbb97f3ed165d5674a77084ecbe/classes.dex" />
+    </item>
+    <item
+        jar="/Users/meetbrahmbhatt/Downloads/physical-web-master/android/FindSensor/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/meetbrahmbhatt/Downloads/physical-web-master/android/FindSensor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_46dc8051dbff19be905732bd4945d18962bb54c4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/meetbrahmbhatt/Downloads/physical-web-master/android/FindSensor/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/meetbrahmbhatt/Downloads/physical-web-master/android/FindSensor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_ea4aa6200b5ac8c146e7bb9acd36739dbd74a499/classes.dex" />
+    </item>
+    <item
+        jar="/Users/meetbrahmbhatt/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/meetbrahmbhatt/Downloads/physical-web-master/android/FindSensor/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_3a39137adaa0c457257943e03a41f0c83ac2b388/classes.dex" />
+    </item>
+
+</items>

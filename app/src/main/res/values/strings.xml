@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FindSensor</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="dialog_error_no_ble">BLE technology is not supported on your device.</string>
+    <string name="dialog_error_no_bluetooth">Bluetooth is not supported on your device.</string>
+    <string name="dialog_enable_bluetooth">Please turn on the device bluetooth</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="turn_on">Turn On</string>
+    <string name="empty_scan_list">BLE Devices not found</string>
+</resources>
