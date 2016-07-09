@@ -1,9 +1,3 @@
-package com.example.meetbrahmbhatt.findsensor;
-
-/**
- * Created by meetbrahmbhatt on 5/2/16.
- */
-
 import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothDevice;
 import android.os.Handler;
