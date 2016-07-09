@@ -1,13 +1,7 @@
-package com.example.meetbrahmbhatt.findsensor;
-
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.content.DialogInterface;
 import android.os.Bundle;
-
-/**
- * Created by meetbrahmbhatt on 5/2/16.
- */
 public class Error_Report extends App_Dialog<Error_Report.ErrorDialogListener> {
     public static final String TAG = Error_Report.class.getSimpleName();
 
