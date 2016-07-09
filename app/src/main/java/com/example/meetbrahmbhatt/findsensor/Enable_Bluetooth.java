@@ -1,13 +1,8 @@
-package com.example.meetbrahmbhatt.findsensor;
-
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.content.DialogInterface;
 import android.os.Bundle;
 
-/**
- * Created by meetbrahmbhatt on 5/2/16.
- */
 public class Enable_Bluetooth extends App_Dialog<Enable_Bluetooth.EnableBluetoothDialogListener> {
     public static final String TAG = Enable_Bluetooth.class.getSimpleName();
 
