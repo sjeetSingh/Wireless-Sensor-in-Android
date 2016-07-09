@@ -1,5 +1,3 @@
-package com.example.meetbrahmbhatt.findsensor;
-
 import android.app.Application;
 import android.test.ApplicationTestCase;
 
